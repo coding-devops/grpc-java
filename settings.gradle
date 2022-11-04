@@ -1,4 +1,4 @@
-pluginManagement {ddddd
+pluginManagement {dddddxcv1
     plugins {
         id "com.android.application" version "4.2.0"
         id "com.android.library" version "4.2.0"
