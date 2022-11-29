@@ -104,4 +104,4 @@ if (settings.hasProperty('skipAndroid') && skipAndroid.toBoolean()) {
     project(':grpc-android-interop-testing').projectDir = "$rootDir/android-interop-testing" as File
     include ":grpc-binder"
     project(':grpc-binder').projectDir = "$rootDir/binder" as File
-}
+}qwe
