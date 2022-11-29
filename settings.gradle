@@ -34,7 +34,7 @@ include ":grpc-core"
 include ":grpc-context"
 include ":grpc-stub"
 include ":grpc-census"
-include ":grpc-auth"
+include ":grpc-auth"asd
 include ":grpc-okhttp"
 include ":grpc-protobuf"
 include ":grpc-protobuf-lite"
